@@ -33,7 +33,7 @@ const shyam = {
 };
 ```
 
-> *"I don't just learn tech — I build things that matter, ship fast, and solve real problems in the Indian context."*
+> *"I don't just learn tech — I build things that matter, ship fast, and solve real problems."*
 
 ---
 
