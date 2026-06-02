@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shyam%20Sunder%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20%20%7C%20AI%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shyam%20Sunder%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20%&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+impactful+Full+Stack+products+%F0%9F%9A%80;B.Tech+CSE+%40+UEM+Jaipur+%F0%9F%8E%93;Hackathon+Finalist+%7C+AceHack+5.0+%7C+Laserhacks;Open+to+SDE+%2F+Full+Stack+%2F+AI+Internships+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
