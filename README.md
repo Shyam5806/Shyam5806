@@ -126,25 +126,6 @@ Automated aggregator that scrapes, indexes, and notifies developers about upcomi
 </td>
 </tr>
 
-<tr>
-<td width="100%">
-
-### 🌱 Carbon-Wise — Vehicle Lifecycle Carbon Intelligence
-
-Sustainable mobility platform that calculates end-to-end carbon footprint across manufacturing, usage, and disposal phases for any vehicle. Built with India-specific emission data sources for a national hackathon's Sustainable Mobility track.
-
-**Tech Stack:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/carbon-wise)
-
-</td>
-</tr>
-
 </table>
 
 ---
