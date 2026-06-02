@@ -221,9 +221,9 @@ Multi-agent cybersecurity assistant for real-time threat analysis, vulnerability
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shyam0508060409087&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-eight-rho.vercel.app/api?username=shyam0508060409087&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam0508060409087&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=shyam0508060409087&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
 
 <br/><br/>
 
