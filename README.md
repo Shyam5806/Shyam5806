@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shyam%20Sunder%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20%7C%20AI%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shyam%20Sunder%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20%20%7C%20AI%20Builder&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+impactful+Full+Stack+products+%F0%9F%9A%80;B.Tech+CSE+%40+UEM+Jaipur+%F0%9F%8E%93;Hackathon+Finalist+%7C+AceHack+5.0+%7C+Laserhacks;Open+to+SDE+%2F+Full+Stack+%2F+AI+Internships+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
@@ -9,9 +9,9 @@
 <br/><br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sunder-pandey-605542321/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sunder-pandey-605542321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamsunderpandey0508@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam0508060409087)
 
 <br/><br/>
 
@@ -33,7 +33,7 @@ const shyam = {
 };
 ```
 
-> *"I don't just learn tech — I build things that matter, ship fast, and solve real problems."*
+> *"I don't just learn tech — I build things that matter, ship fast, and solve real problems in the Indian context."*
 
 ---
 
@@ -80,7 +80,7 @@ Blockchain-powered consent management platform built for India's **DPDP Act 2023
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/consentchain)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/shyam0508060409087/consentchain)
 
 </td>
 </tr>
@@ -100,7 +100,7 @@ End-to-end AI restoration pipeline combining **LaMa** for inpainting, **Real-ESR
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/restorai)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/shyam0508060409087/restorai)
 
 </td>
 </tr>
@@ -120,7 +120,7 @@ Automated aggregator that scrapes, indexes, and notifies developers about upcomi
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/hackradar)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat&logo=github)](https://github.com/shyam0508060409087/hackradar)
 [![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat&logo=vercel)](https://hackradar.vercel.app)
 
 </td>
@@ -221,13 +221,13 @@ Multi-agent cybersecurity assistant for real-time threat analysis, vulnerability
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shyam0508060409087&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyam0508060409087&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam0508060409087&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
 
 </div>
 
@@ -237,9 +237,9 @@ Multi-agent cybersecurity assistant for real-time threat analysis, vulnerability
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyam0508060409087/shyam0508060409087/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyam0508060409087/shyam0508060409087/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/shyam0508060409087/shyam0508060409087/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -269,13 +269,13 @@ I'm actively looking for **SDE / Full Stack / AI internship opportunities** — 
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sunder-pandey-605542321/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sunder-pandey-605542321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamsunderpandey0508@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam0508060409087)
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=shyam0508060409087&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
