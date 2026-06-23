@@ -22,7 +22,7 @@
 
 ```yaml
 Name        : Shyam Sunder Pandey
-Role        : Full Stack Developer — AI-integrated systems, Cybersecurity
+Role        : Full Stack Developer — AI-integrated systems, Cybersecurity, Cloud&DevOps
 University  : UEM Jaipur — B.Tech Computer Science & Engineering (3rd Year)
 Location    : Jaipur, India 🇮🇳
 Primary Stack: Next.js · React.js · Express.js · FastAPI · Java · Python · C · PostgreSQL · TypeScript
