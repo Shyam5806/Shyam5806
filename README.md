@@ -147,19 +147,6 @@ Voice-first AI rural health triage platform designed to integrate with India's *
 </td>
 </tr>
 
-<tr>
-<td width="100%">
-
-### 🛡️ Agentic AI Security Copilot *(In Progress)*
-
-Multi-agent cybersecurity assistant for real-time threat analysis, vulnerability detection, and automated incident response. Uses LLM-powered agents with tool-use capabilities, OWASP-aligned scanning, and a vector database for threat intelligence memory.
-
-**Planned Stack:**
-`LangGraph` · `Python` · `FastAPI` · `ChromaDB` · `OWASP ZAP` · `Docker`
-
-</td>
-</tr>
-
 </table>
 
 ---
