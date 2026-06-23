@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Shyam%20Sunder%20Pandey&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrations%20%7C%20Cloud&DevOps&descAlignY=55&descSize=17&descColor=a78bfa&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Shyam%20Sunder%20Pandey&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Integrations%20%7C%20Cloud\DevOps&descAlignY=55&descSize=17&descColor=a78bfa&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=1200&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+AI-integrated+systems+for+real+Indian+problems+%F0%9F%87%AE%F0%9F%87%B3;AceHack+5.0+%E2%80%94+11th+Place+among+500%2B+teams+%7C+IITs+%2B+IIITs;Laserhacks+%E2%80%94+International+Finalist+%7C+Lasell+University%2C+USA;3rd+Year+CSE+%40+UEM+Jaipur+%7C+Open+to+Internships" alt="Typing SVG" />
