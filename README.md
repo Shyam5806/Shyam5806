@@ -23,7 +23,7 @@
 ```yaml
 Name        : Shyam Sunder Pandey
 Role        : Full Stack Developer — AI-integrated systems, Cybersecurity
-University  : UEM Jaipur — B.Tech Computer Science & Engineering (Final Year)
+University  : UEM Jaipur — B.Tech Computer Science & Engineering (Pre Final Year)
 Location    : Jaipur, India 🇮🇳
 Primary Stack: Next.js · FastAPI · Python · PostgreSQL · TypeScript
 Building    : GaonDoc (AI rural health triage) · Agentic AI Security Copilot
@@ -35,7 +35,7 @@ Open To     : Full Stack · Backend · AI Integration Internships
 
 ## 👨‍💻 About Me
 
-I'm Shyam — a final-year Computer Science student at **UEM Jaipur** and a full-stack developer who builds AI-integrated systems targeting real infrastructure gaps in India. From a **blockchain-based data consent platform** aligned to India's DPDP Act 2023, to a **voice-first rural health triage system** designed for eSanjeevani — I work on problems that matter beyond the hackathon deadline.
+I'm Shyam — a pre-final-year Computer Science student at **UEM Jaipur** and a full-stack developer who builds AI-integrated systems targeting real infrastructure gaps in India. From a **blockchain-based data consent platform** aligned to India's DPDP Act 2023, to a **voice-first rural health triage system** designed for eSanjeevani — I work on problems that matter beyond the hackathon deadline.
 
 I build production-minded systems — not demos. My work spans smart contract development on Algorand, multi-model AI pipelines combining LaMa + ESRGAN + SAM, and zero-cost automated platforms powered by GitHub Actions. I approach every project with one question: *what breaks first under real usage?*
 
@@ -110,7 +110,7 @@ Built and maintained web applications supporting the foundation's social impact 
 
 ### 🔗 ConsentChain — Decentralized Data Consent Platform
 
-I'm a final-year CS student, not a lawyer — but India's **DPDP Act 2023** created a real engineering problem worth solving. ConsentChain lets users mint **ARC-19 NFTs** as verifiable consent records, stores encrypted data in an **AES-256 vault on IPFS**, and uses a Vibekit AI agent to guide non-technical users through the consent flow. The hardest challenge was maintaining consent immutability on Algorand while keeping the UI accessible to non-Web3 users.
+I'm a pre-final-year CS student, not a lawyer — but India's **DPDP Act 2023** created a real engineering problem worth solving. ConsentChain lets users mint **ARC-19 NFTs** as verifiable consent records, stores encrypted data in an **AES-256 vault on IPFS**, and uses a Vibekit AI agent to guide non-technical users through the consent flow. The hardest challenge was maintaining consent immutability on Algorand while keeping the UI accessible to non-Web3 users.
 
 **Tech Stack:**
 ![Algorand](https://img.shields.io/badge/Algorand-000000?style=flat&logo=algorand&logoColor=white)
@@ -305,7 +305,7 @@ Security tools generate noise. This builds signal. A multi-agent LLM system wher
 |:---|:---|:---|
 | 🏅 **AceHack 5.0 — 11th Place** | National hackathon · 500+ teams · Top teams from IITs, IIITs & NITs | 2026 |
 | 🌍 **International Finalist** | Laserhacks 2025 · Lasell University, USA · Competed against global teams | 2025 |
-| 🥇 **1st Place** | HackUEM 3.0 · Internal hackathon · UEM Jaipur | 2025 |
+| 🥇 **1st Place** | HackUEM 3.0 · Internal hackathon • 1st in 3 College Tech-related Events (TechUtopia) · UEM Jaipur | 2025 |
 
 </div>
 
@@ -363,7 +363,7 @@ I'm actively looking for **Full Stack / Backend / AI internship opportunities** 
 ```yaml
 Name        : Shyam Sunder Pandey
 Role        : Full Stack Developer — AI-integrated systems, Cybersecurity
-University  : UEM Jaipur — B.Tech Computer Science & Engineering (Final Year)
+University  : UEM Jaipur — B.Tech Computer Science & Engineering (Pre-Final Year)
 Location    : Jaipur, India 🇮🇳
 Primary Stack: Next.js · FastAPI · Python · PostgreSQL · TypeScript
 Building    : GaonDoc (AI rural health triage) · Agentic AI Security Copilot
@@ -375,7 +375,7 @@ Open To     : Full Stack · Backend · AI Integration Internships
 
 ## 👨‍💻 About Me
 
-I'm Shyam — a final-year Computer Science student at **UEM Jaipur** and a full-stack developer who builds AI-integrated systems targeting real infrastructure gaps in India. From a **blockchain-based data consent platform** aligned to India's DPDP Act 2023, to a **voice-first rural health triage system** designed for eSanjeevani — I work on problems that matter beyond the hackathon deadline.
+I'm Shyam — a pre-final-year Computer Science student at **UEM Jaipur** and a full-stack developer who builds AI-integrated systems targeting real infrastructure gaps in India. From a **blockchain-based data consent platform** aligned to India's DPDP Act 2023, to a **voice-first rural health triage system** designed for eSanjeevani — I work on problems that matter beyond the hackathon deadline.
 
 I build production-minded systems — not demos. My work spans smart contract development on Algorand, multi-model AI pipelines combining LaMa + ESRGAN + SAM, and zero-cost automated platforms powered by GitHub Actions. I approach every project with one question: *what breaks first under real usage?*
 
@@ -450,7 +450,7 @@ Built and maintained web applications supporting the foundation's social impact 
 
 ### 🔗 ConsentChain — Decentralized Data Consent Platform
 
-I'm a final-year CS student, not a lawyer — but India's **DPDP Act 2023** created a real engineering problem worth solving. ConsentChain lets users mint **ARC-19 NFTs** as verifiable consent records, stores encrypted data in an **AES-256 vault on IPFS**, and uses a Vibekit AI agent to guide non-technical users through the consent flow. The hardest challenge was maintaining consent immutability on Algorand while keeping the UI accessible to non-Web3 users.
+I'm a pre-final-year CS student, not a lawyer — but India's **DPDP Act 2023** created a real engineering problem worth solving. ConsentChain lets users mint **ARC-19 NFTs** as verifiable consent records, stores encrypted data in an **AES-256 vault on IPFS**, and uses a Vibekit AI agent to guide non-technical users through the consent flow. The hardest challenge was maintaining consent immutability on Algorand while keeping the UI accessible to non-Web3 users.
 
 **Tech Stack:**
 ![Algorand](https://img.shields.io/badge/Algorand-000000?style=flat&logo=algorand&logoColor=white)
