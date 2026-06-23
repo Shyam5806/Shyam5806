@@ -26,7 +26,7 @@ const shyam = {
   role       : "Full Stack Developer",
   university : "UEM Jaipur — B.Tech Computer Science & Engineering",
   location   : "India 🇮🇳",
-  currently  : ["Building GaonDoc 🏥", "Agentic AI Security Copilot 🛡️"],
+  currently  : ["Building GaonDoc 🏥"(Conceptual/Planning Phase)],
   hackathons : ["AceHack 5.0 — 11th Place (competing vs IITs/IIITs)", "Laserhacks — International Finalist"],
   interests  : ["Full Stack Development", "DevOps", "Cloud Computing"],
   openTo     : "SDE / Full Stack / AI Internships & Opportunities",
