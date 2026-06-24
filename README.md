@@ -8,9 +8,32 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sunder-pandey-605542321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamsunderpandey0508@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam0508060409087)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/shyam-sunder-pandey-605542321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[
+
+![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:shyamsunderpandey0508@gmail.com)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/shyam0508060409087)
+[
+
+![Portfolio](https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)
+
+](https://shyam-s-space-portfolio.vercel.app/)
+
+<br/>
+
+<a href="https://shyam-s-space-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀%20View%20My%20Interactive%20Space--Themed%20Portfolio-0f0c29?style=for-the-badge&logoColor=a78bfa" alt="Portfolio" />
+</a>
 
 <br/>
 
