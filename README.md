@@ -329,7 +329,7 @@ I'm actively looking for **Full Stack / Backend / AI internship opportunities** 
 
 <br/>
 
-> *"The best engineers don't just write code — they engineer outcomes that outlast the sprint."*
+> *"Good code is invisible. Great engineering is what makes it stay that way." *
 
 </div>
 
