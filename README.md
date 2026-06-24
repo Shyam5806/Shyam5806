@@ -42,7 +42,7 @@ Open To     : Full Stack · Backend · AI Integration Internships
 
 ## My Portfolio - An Interactive Space Experience
 
-**[shyam-s-space-portfolio.vercel .app](https://shyam-s-space -portfolio.vercel.app/)**
+**[shyam-s-space-portfolio.vercel .app](https://shyam-s-space-portfolio.vercel.app/)**
 
 Not a regular portfolio page - a *3D interactive space journey* built entirely in the browser. Each section is a themed scene you navigate through, with cinematic transitions between them.
 
@@ -66,12 +66,12 @@ Router + TypeScript + Tailwind CSS
 
 Most developer portfolios are scrollable landing pages. I wanted mine to feel like an experience something that shows frontend engineering depth, not just lists projects. Every scene transition, particle system, and camera movement is hand-coded, not a template.
 
-![Three.js](https://img.shields.io /badge/Three.js-000000?style=flat& logo=threedotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)   
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style =flat&logo=nextdotjs&logoColor= white)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-[![Launch Portfolio](https://img.shields.io/badge/Launch Experience_%F0%9F%9A%80 -a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https:// shyam-s-space-portfolio.vercel.app/)
+[![Launch Portfolio](https://img.shields.io/badge/Launch Experience%F0%9F%9A%80-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://shyam-s-space-portfolio.vercel.app/)
 
 ---
 
