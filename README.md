@@ -8,26 +8,10 @@
 
 <br/><br/>
 
-[
-
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/shyam-sunder-pandey-605542321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[
-
-  ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:shyamsunderpandey0508@gmail.com)
-[
-
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/shyam0508060409087)
-[
-
-  ![Portfolio](https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)
-
-](https://shyam-s-space-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam-sunder-pandey-605542321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamsunderpandey0508@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyam0508060409087)
+[![Portfolio](https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://shyam-s-space-portfolio.vercel.app/)
 
 <br/>
 
@@ -55,6 +39,57 @@ Open To     : Full Stack · Backend · AI Integration Internships
 ```
 
 ---
+
+## My Portfolio - An Interactive Space Experience
+
+**[shyam-s-space-portfolio.vercel .app](https://shyam-s-space -portfolio.vercel.app/)**
+
+Not a regular portfolio page - a *3D interactive space journey* built entirely in the browser. Each section is a themed scene you navigate through, with cinematic transitions between them.
+
+each representing a different aspect of my work and identity *Cinematic scene
+
+transitions* powered by GSAP
+
+animation timelines
+
+*Real-time 3D rendering*
+
+via Three.js - runs entirely
+
+client-side, no plugins needed
+
+*Responsive across devices*
+
+built with Next.js 14 App
+
+Router + TypeScript + Tailwind CSS
+
+Most developer portfolios are scrollable landing pages. I wanted mine to feel like an experience something that shows frontend engineering depth, not just lists projects. Every scene transition, particle system, and camera movement is hand-coded, not a template.
+
+![Three.js](https://img.shields.io /badge/Three.js-000000?style=flat& logo=threedotjs&logoColor=white)
+
+![GSAP](https://img.shields.io
+
+/badge/GSAP-88CE02?style=flat&
+
+logo=greensock&logoColor=black) ![Next.js](https://img.shields.io
+
+/badge/Next.js_14-000000?style =flat&logo=nextdotjs&logoColor= white)
+
+![TypeScript](https://img.shields.io
+
+/badge/TypeScript-3178C6?style =flat&logo=typescript&logoColor= white)
+
+![TailwindCSS](https://img.shields.io
+
+/badge/TailwindCSS-06B6D4?style =flat&logo=tailwindcss&logoColor= white)
+[![Launch Portfolio](https://
+
+img.shields.io/badge/Launch Experience_%F0%9F%9A%80 -a78bfa?style=for-the-badge&logo =vercel&logoColor=white)](https:// shyam-s-space-portfolio.vercel.app
+/)
+
+---
+
 
 ## 👨‍💻 About Me
 
