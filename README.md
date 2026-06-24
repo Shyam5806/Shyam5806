@@ -44,25 +44,10 @@ Open To     : Full Stack · Backend · AI Integration Internships
 
 **[shyam-s-space-portfolio.vercel.app](https://shyam-s-space-portfolio.vercel.app/)**
 
-Not a regular portfolio page - a *3D interactive space journey* built entirely in the browser. Each section is a themed scene you navigate through, with cinematic transitions between them.
+Not a regular portfolio page - a *3D interactive space journey* built entirely in the browser. Each section is a themed scene you navigate through, with cinematic transitions between them.each representing a different aspect of my work and identity *Cinematic scenetransitions* powered by GSAPanimation timelines.
 
-each representing a different aspect of my work and identity *Cinematic scene
-
-transitions* powered by GSAP
-
-animation timelines
-
-*Real-time 3D rendering*
-
-via Three.js - runs entirely
-
-client-side, no plugins needed
-
-*Responsive across devices*
-
-built with Next.js 14 App
-
-Router + TypeScript + Tailwind CSS
+*Real-time 3D rendering* via Three.js - runs entirely client-side, no plugins needed
+*Responsive across devices* built with Next.js 14 App Router + TypeScript + Tailwind CSS
 
 Most developer portfolios are scrollable landing pages. I wanted mine to feel like an experience something that shows frontend engineering depth, not just lists projects. Every scene transition, particle system, and camera movement is hand-coded, not a template.
 
