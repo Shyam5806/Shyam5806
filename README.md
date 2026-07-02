@@ -357,7 +357,7 @@ I'm actively looking for **Full Stack / Backend / AI internship opportunities** 
 
 <br/>
 
-> *"Good code is invisible. Great engineering is what makes it stay that way." *
+> "Good code is invisible. Great engineering is what makes it stay that way." 
 
 </div>
 
